@@ -1,0 +1,22 @@
+t {
+    font-size: xx-large;
+    color: brown;
+}
+
+mt{
+    font-size: xx-large;
+    color: darkblue;
+}
+
+p {
+    font-size: x-large;
+    color: black; 
+}
+
+
+
+.special{ /*Notice the "." at the start; this means it is acting on a class*/
+    font-size: 2em;
+    color: red;
+}
+
